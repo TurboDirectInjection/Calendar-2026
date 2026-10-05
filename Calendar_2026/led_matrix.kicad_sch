@@ -433,7 +433,7 @@
 		(uuid "04c6a4ba-d3f2-4384-a4e4-7db824b12fa6")
 	)
 	(junction
-		(at 179.3432 81.28)
+		(at 179.07 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "092d78f5-211f-4648-a377-77bbc8b54faf")
@@ -443,6 +443,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09d16b31-f8ea-404b-a373-ff4377078c5e")
+	)
+	(junction
+		(at 194.31 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0be83c18-05b2-4a8b-993a-59ffafb6b9d3")
 	)
 	(junction
 		(at 135.89 91.44)
@@ -463,10 +469,28 @@
 		(uuid "0f9465f3-88c7-4a37-a13f-6c0744350150")
 	)
 	(junction
+		(at 153.67 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12afb96c-17cd-429b-bbca-fa59daa823ff")
+	)
+	(junction
 		(at 184.15 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1390ba21-7026-4125-80ef-76dde3ab70fb")
+	)
+	(junction
+		(at 234.95 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15e15036-e3d7-4e47-ad72-3920ab8b4f63")
+	)
+	(junction
+		(at 245.11 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15f473fa-73c6-474e-93b9-e4c5a2a2758f")
 	)
 	(junction
 		(at 219.71 121.92)
@@ -487,7 +511,7 @@
 		(uuid "1c916433-eba6-47d2-9ec0-5e328c97f9d3")
 	)
 	(junction
-		(at 159.0232 81.28)
+		(at 158.75 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d83886a-5571-450f-ab74-86a09b34886c")
@@ -523,7 +547,7 @@
 		(uuid "26a70715-202e-4553-afc1-155c98721c09")
 	)
 	(junction
-		(at 148.8632 71.12)
+		(at 148.59 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2fa45a72-c362-4bcc-9dc0-f6aaa18d54e2")
@@ -565,6 +589,12 @@
 		(uuid "3508fd06-7ea9-45d5-b3d0-1e35c3604531")
 	)
 	(junction
+		(at 224.79 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35cd237d-a3ff-4947-974e-f261d9024c85")
+	)
+	(junction
 		(at 168.91 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -601,7 +631,7 @@
 		(uuid "3e23a08c-5623-4bf6-9351-c1f6379e1c58")
 	)
 	(junction
-		(at 169.1832 81.28)
+		(at 168.91 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f163e29-2df8-4542-9710-95e6b42d3bb7")
@@ -667,12 +697,6 @@
 		(uuid "4b5b5c2a-42ea-43c4-a056-1646262c40e0")
 	)
 	(junction
-		(at 230.1432 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4bf572f1-e0fa-4f0b-9321-477c87116097")
-	)
-	(junction
 		(at 234.95 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -685,7 +709,7 @@
 		(uuid "4df9635f-c5cc-464a-bbe9-103a7c7de6db")
 	)
 	(junction
-		(at 159.0232 71.12)
+		(at 158.75 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f2a24bd-4289-4017-9df1-644755711d74")
@@ -751,6 +775,12 @@
 		(uuid "614d6f4a-7840-4fd6-bfbe-2b25c0c3ac97")
 	)
 	(junction
+		(at 173.99 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "619a19a9-e417-470f-97c9-0efac6fcffdd")
+	)
+	(junction
 		(at 199.39 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -799,6 +829,12 @@
 		(uuid "6d03a0ba-3ea9-4bb0-87e0-3d58fb2164fb")
 	)
 	(junction
+		(at 163.83 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6d76b73d-4d6b-4b85-9af5-41dc8ae9b752")
+	)
+	(junction
 		(at 146.05 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -829,7 +865,7 @@
 		(uuid "710b9b4c-a3fc-4489-9ccb-8d444d8f2a2c")
 	)
 	(junction
-		(at 209.8232 81.28)
+		(at 209.55 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7320fee1-aab3-4c40-a02a-477cea80bb33")
@@ -865,7 +901,7 @@
 		(uuid "7f0aa4db-f9ff-4ea3-9162-78e06fb9b792")
 	)
 	(junction
-		(at 199.6632 71.12)
+		(at 199.39 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f703581-742f-4dc3-a63b-c061374ca038")
@@ -955,7 +991,7 @@
 		(uuid "96319988-0f65-4b3f-94d6-eebe13603c8d")
 	)
 	(junction
-		(at 189.5032 71.12)
+		(at 189.23 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96b5dee4-a55d-402f-959a-7ba97101762f")
@@ -973,16 +1009,34 @@
 		(uuid "9fbd7695-2c0f-448d-b4e8-45ac7b21850c")
 	)
 	(junction
+		(at 204.47 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1177c6e-292f-455a-a2ce-f9f36ca3a604")
+	)
+	(junction
 		(at 148.59 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a12b1b7d-e19a-4b31-9e2c-9bcc37b3a347")
 	)
 	(junction
+		(at 229.87 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3c4781d-cd30-47f4-9d31-8915c5b08103")
+	)
+	(junction
 		(at 209.55 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a51b58f4-c817-4f6a-a690-e248709cc4d3")
+	)
+	(junction
+		(at 214.63 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5e8ab4a-b429-4df9-ad2c-f803ecca1d55")
 	)
 	(junction
 		(at 224.79 96.52)
@@ -1015,7 +1069,13 @@
 		(uuid "ad5a33ef-a113-42e5-b75f-ea3b2d05a9de")
 	)
 	(junction
-		(at 169.1832 71.12)
+		(at 153.67 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af3322e4-71cf-4747-a3c0-2f0cd3793599")
+	)
+	(junction
+		(at 168.91 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b05d2a41-98c8-4506-85ec-b3d7a39715de")
@@ -1075,22 +1135,22 @@
 		(uuid "ba6b7ef4-547f-40ba-90fb-389b996657c5")
 	)
 	(junction
-		(at 219.9832 71.12)
+		(at 219.71 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbd304a6-4116-48c5-8178-526c214c95ad")
+	)
+	(junction
+		(at 224.79 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd5d2b26-8081-4076-99a7-bfdae6b33fb4")
 	)
 	(junction
 		(at 189.23 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd7dc8ce-8da3-4e9d-a7fc-a3ee578d88f3")
-	)
-	(junction
-		(at 230.1432 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c11ad416-05ff-4f3e-b0e3-794e4b5d9fb8")
 	)
 	(junction
 		(at 209.55 60.96)
@@ -1103,6 +1163,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c478192f-1ab0-428d-a774-e7e2a0bf6867")
+	)
+	(junction
+		(at 184.15 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4c07883-2b75-4ccb-b0e2-b9e199b79309")
 	)
 	(junction
 		(at 229.87 60.96)
@@ -1207,6 +1273,18 @@
 		(uuid "d9cfaff6-1b8d-4eff-8b1b-63f101ddd0a7")
 	)
 	(junction
+		(at 173.99 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "daa05377-96d7-4afe-8a58-903b6a8d1e6e")
+	)
+	(junction
+		(at 234.95 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd0eb12e-e17f-4324-9b1c-8b7cafc8caa7")
+	)
+	(junction
 		(at 189.23 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1225,7 +1303,7 @@
 		(uuid "e21f1788-9d59-45e7-ad81-0fc4a2d59f42")
 	)
 	(junction
-		(at 219.9832 81.28)
+		(at 219.71 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e225df71-c519-4c47-9c63-b1743866fba6")
@@ -1249,7 +1327,7 @@
 		(uuid "e93676bc-444b-4b00-b0be-0c4e76e314be")
 	)
 	(junction
-		(at 148.8632 81.28)
+		(at 148.59 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea39b0e9-5aa3-4ff4-9b7e-0fedc9a7e255")
@@ -1267,6 +1345,18 @@
 		(uuid "eb5ccc03-84e5-4ae0-858e-cd770dd6ed5b")
 	)
 	(junction
+		(at 245.11 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed2e62ed-e3a8-44a7-8ede-b93a1b50986f")
+	)
+	(junction
+		(at 163.83 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0b02c8c-f68b-4fdc-92ac-a66e34c80cbe")
+	)
+	(junction
 		(at 179.07 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1277,6 +1367,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f55149bd-e84a-4f71-bc0c-834c22e366a1")
+	)
+	(junction
+		(at 229.87 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7abb798-bbae-4300-8f29-cd94330f03e7")
 	)
 	(junction
 		(at 148.59 50.8)
@@ -1410,6 +1506,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 76.2) (xy 214.63 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03ebee85-94ff-4992-a032-1f58d42e3836")
+	)
+	(wire
+		(pts
 			(xy 224.79 116.84) (xy 224.79 127)
 		)
 		(stroke
@@ -1540,6 +1646,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 76.2) (xy 234.95 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ff92475-d1df-4a5f-aad2-0717ceea2975")
+	)
+	(wire
+		(pts
 			(xy 184.15 96.52) (xy 184.15 106.68)
 		)
 		(stroke
@@ -1580,6 +1696,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 76.2) (xy 184.15 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13e1af15-aa8e-4cc4-8594-b8c0c076ab32")
+	)
+	(wire
+		(pts
 			(xy 148.59 101.6) (xy 158.75 101.6)
 		)
 		(stroke
@@ -1617,6 +1743,16 @@
 			(type default)
 		)
 		(uuid "165cd16f-f8d2-42a0-93d4-3d2075327aa8")
+	)
+	(wire
+		(pts
+			(xy 194.31 66.04) (xy 194.31 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "180fe8cc-dab7-4e45-91c9-1ef106f47267")
 	)
 	(wire
 		(pts
@@ -1730,16 +1866,6 @@
 	)
 	(wire
 		(pts
-			(xy 169.1832 81.28) (xy 179.3432 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "246b4320-b962-4547-8d47-fcb107e6801d")
-	)
-	(wire
-		(pts
 			(xy 229.87 60.96) (xy 240.03 60.96)
 		)
 		(stroke
@@ -1780,6 +1906,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 66.04) (xy 234.95 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aa015da-846f-4d51-bac1-702756c03fe9")
+	)
+	(wire
+		(pts
 			(xy 123.19 134.62) (xy 153.67 134.62)
 		)
 		(stroke
@@ -1790,7 +1926,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 66.04) (xy 214.63 86.36)
+			(xy 214.63 66.04) (xy 214.63 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1820,7 +1956,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 81.28) (xy 148.8632 81.28)
+			(xy 133.35 81.28) (xy 199.39 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1910,13 +2046,23 @@
 	)
 	(wire
 		(pts
-			(xy 179.3432 81.28) (xy 199.39 81.28)
+			(xy 173.99 66.04) (xy 173.99 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "39ff9573-2fcd-4b3a-98ed-efa968c0b340")
+		(uuid "38d17680-3af7-417b-8410-374b42a74441")
+	)
+	(wire
+		(pts
+			(xy 204.47 66.04) (xy 204.47 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "397420d5-1aae-49c5-a39a-6b2c9808cc92")
 	)
 	(wire
 		(pts
@@ -1947,16 +2093,6 @@
 			(type default)
 		)
 		(uuid "3d0664be-4fe5-45d6-8d17-dc802a13c7e4")
-	)
-	(wire
-		(pts
-			(xy 209.8232 81.28) (xy 219.9832 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d6fa969-a032-4f7f-b318-6d8a0faae13e")
 	)
 	(wire
 		(pts
@@ -2000,7 +2136,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 55.88) (xy 194.31 86.36)
+			(xy 194.31 55.88) (xy 194.31 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2010,7 +2146,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 55.88) (xy 163.83 86.36)
+			(xy 163.83 55.88) (xy 163.83 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2060,7 +2196,17 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 55.88) (xy 204.47 76.2)
+			(xy 153.67 76.2) (xy 153.67 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a9fcb48-9930-4191-9569-bc74dd0ac796")
+	)
+	(wire
+		(pts
+			(xy 204.47 55.88) (xy 204.47 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2090,6 +2236,26 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 76.2) (xy 173.99 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e81dcc8-3506-4d14-8f50-52de19f5891b")
+	)
+	(wire
+		(pts
+			(xy 245.11 76.2) (xy 245.11 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "527ca286-76a0-4176-b9a0-743483eb7beb")
+	)
+	(wire
+		(pts
 			(xy 214.63 55.88) (xy 214.63 66.04)
 		)
 		(stroke
@@ -2110,13 +2276,13 @@
 	)
 	(wire
 		(pts
-			(xy 159.0232 81.28) (xy 169.1832 81.28)
+			(xy 153.67 66.04) (xy 153.67 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "53d9a043-43e8-47bc-b9d4-457e069dbe08")
+		(uuid "55f3ef5b-c0b8-4af4-8619-c3ead602c6ec")
 	)
 	(wire
 		(pts
@@ -2140,13 +2306,13 @@
 	)
 	(wire
 		(pts
-			(xy 230.1432 81.28) (xy 240.3032 81.28)
+			(xy 224.79 66.04) (xy 224.79 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "58c9ce42-6481-4dad-aebc-0c9b59163897")
+		(uuid "57991b05-3193-46f3-9877-f1c9a1ca359c")
 	)
 	(wire
 		(pts
@@ -2167,16 +2333,6 @@
 			(type default)
 		)
 		(uuid "5c21ded9-267d-4ddd-9f6e-85f797e67ebc")
-	)
-	(wire
-		(pts
-			(xy 159.0232 71.12) (xy 169.1832 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c88b2b2-e900-4106-a52d-607cd8d83b87")
 	)
 	(wire
 		(pts
@@ -2230,16 +2386,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.8632 81.28) (xy 159.0232 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "604935f2-159a-4958-80d8-f757b459779e")
-	)
-	(wire
-		(pts
 			(xy 189.23 121.92) (xy 199.39 121.92)
 		)
 		(stroke
@@ -2270,7 +2416,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 55.88) (xy 234.95 86.36)
+			(xy 234.95 55.88) (xy 234.95 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2330,7 +2476,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 55.88) (xy 224.79 86.36)
+			(xy 224.79 55.88) (xy 224.79 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2440,7 +2586,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 71.12) (xy 219.9832 71.12)
+			(xy 209.55 71.12) (xy 229.87 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2480,13 +2626,13 @@
 	)
 	(wire
 		(pts
-			(xy 219.9832 81.28) (xy 230.1432 81.28)
+			(xy 229.87 81.28) (xy 240.03 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "87048bab-a161-469d-9d53-46a676fa9ef4")
+		(uuid "857df67f-2f52-424e-8bae-a0eb77ec6fa5")
 	)
 	(wire
 		(pts
@@ -2560,6 +2706,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 66.04) (xy 163.83 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ceaea54-f87d-4480-af41-84d5d06869c3")
+	)
+	(wire
+		(pts
 			(xy 179.07 40.64) (xy 189.23 40.64)
 		)
 		(stroke
@@ -2600,13 +2756,13 @@
 	)
 	(wire
 		(pts
-			(xy 169.1832 71.12) (xy 189.5032 71.12)
+			(xy 163.83 76.2) (xy 163.83 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9262e351-d236-44a5-aa85-4a61129fd0db")
+		(uuid "92042500-1fee-442c-91d1-1a014e94e15b")
 	)
 	(wire
 		(pts
@@ -2640,23 +2796,23 @@
 	)
 	(wire
 		(pts
-			(xy 199.6632 71.12) (xy 209.55 71.12)
+			(xy 229.87 71.12) (xy 240.03 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "956db12e-ef83-4938-a86b-c722fc881e73")
+		(uuid "984aaefe-c8a9-4c19-aedf-c15d772a3e60")
 	)
 	(wire
 		(pts
-			(xy 148.8632 71.12) (xy 159.0232 71.12)
+			(xy 224.79 76.2) (xy 224.79 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9570514e-d1b3-48fa-b4a6-43cdc9d2aaf2")
+		(uuid "99007b59-f224-4805-99a3-7dd26fa70542")
 	)
 	(wire
 		(pts
@@ -2750,7 +2906,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 55.88) (xy 153.67 86.36)
+			(xy 153.67 55.88) (xy 153.67 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2860,6 +3016,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 66.04) (xy 245.11 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b11d0204-108e-4aa5-b183-73fe91e1f5a9")
+	)
+	(wire
+		(pts
 			(xy 158.75 121.92) (xy 168.91 121.92)
 		)
 		(stroke
@@ -2880,7 +3046,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 55.88) (xy 184.15 86.36)
+			(xy 184.15 55.88) (xy 184.15 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3080,16 +3246,6 @@
 	)
 	(wire
 		(pts
-			(xy 230.1432 71.12) (xy 240.3032 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d33371c9-ae17-48da-be10-2760661f8c9e")
-	)
-	(wire
-		(pts
 			(xy 199.39 111.76) (xy 209.55 111.76)
 		)
 		(stroke
@@ -3170,7 +3326,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 55.88) (xy 245.11 86.36)
+			(xy 245.11 55.88) (xy 245.11 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3190,7 +3346,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 81.28) (xy 209.8232 81.28)
+			(xy 199.39 81.28) (xy 229.87 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3210,7 +3366,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 45.72) (xy 173.99 86.36)
+			(xy 173.99 45.72) (xy 173.99 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3277,16 +3433,6 @@
 			(type default)
 		)
 		(uuid "e7ed73e0-5399-47eb-befc-b84722440f20")
-	)
-	(wire
-		(pts
-			(xy 189.5032 71.12) (xy 199.6632 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8f33117-50e1-4767-8ad2-4e7ec32d0eda")
 	)
 	(wire
 		(pts
@@ -3430,16 +3576,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.9832 71.12) (xy 230.1432 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fefa8662-59f0-4fb3-8bbc-91322eece146")
-	)
-	(wire
-		(pts
 			(xy 189.23 91.44) (xy 209.55 91.44)
 		)
 		(stroke
@@ -3450,7 +3586,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 71.12) (xy 148.8632 71.12)
+			(xy 130.81 71.12) (xy 209.55 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3829,7 +3965,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 242.8432 68.58 90)
+		(at 242.57 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3839,7 +3975,7 @@
 		(dnp no)
 		(uuid "038c2de6-2766-4e0e-977d-d8104c30438f")
 		(property "Reference" "D39"
-			(at 239.2872 67.056 90)
+			(at 239.014 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3850,7 +3986,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 239.2872 55.372 90)
+			(at 239.014 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3862,7 +3998,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 242.8432 68.58 0)
+			(at 242.57 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3873,7 +4009,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 242.8432 68.58 0)
+			(at 242.57 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3884,7 +4020,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 242.8432 68.58 0)
+			(at 242.57 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3895,7 +4031,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 242.8432 68.58 90)
+			(at 242.57 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3906,7 +4042,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 242.8432 68.58 90)
+			(at 242.57 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3917,7 +4053,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 242.8432 68.58 90)
+			(at 242.57 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4868,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 222.5232 68.58 90)
+		(at 222.25 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4742,7 +4878,7 @@
 		(dnp no)
 		(uuid "0e9f6fe9-0c46-456d-9a57-fd949897afa9")
 		(property "Reference" "D37"
-			(at 218.9672 67.056 90)
+			(at 218.694 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4753,7 +4889,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 218.9672 55.372 90)
+			(at 218.694 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4765,7 +4901,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 222.5232 68.58 0)
+			(at 222.25 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4776,7 +4912,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 222.5232 68.58 0)
+			(at 222.25 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4787,7 +4923,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 222.5232 68.58 0)
+			(at 222.25 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4798,7 +4934,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 222.5232 68.58 90)
+			(at 222.25 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4809,7 +4945,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 222.5232 68.58 90)
+			(at 222.25 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4820,7 +4956,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 222.5232 68.58 90)
+			(at 222.25 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6796,7 +6932,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 161.5632 78.74 90)
+		(at 161.29 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6806,7 +6942,7 @@
 		(dnp no)
 		(uuid "4c0590a0-d1af-4906-839d-fabaaca98ef6")
 		(property "Reference" "D41"
-			(at 158.0072 77.216 90)
+			(at 157.734 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6817,7 +6953,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 158.0072 65.532 90)
+			(at 157.734 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6829,7 +6965,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 161.5632 78.74 0)
+			(at 161.29 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6840,7 +6976,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 161.5632 78.74 0)
+			(at 161.29 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6851,7 +6987,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 161.5632 78.74 0)
+			(at 161.29 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6862,7 +6998,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 161.5632 78.74 90)
+			(at 161.29 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6873,7 +7009,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 161.5632 78.74 90)
+			(at 161.29 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6884,7 +7020,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 161.5632 78.74 90)
+			(at 161.29 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7054,7 +7190,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 202.2032 68.58 90)
+		(at 201.93 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7064,7 +7200,7 @@
 		(dnp no)
 		(uuid "4f021486-0f3d-40b5-8d8f-31161e70ca1d")
 		(property "Reference" "D35"
-			(at 198.6472 67.056 90)
+			(at 198.374 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7075,7 +7211,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 198.6472 55.372 90)
+			(at 198.374 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7087,7 +7223,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 202.2032 68.58 0)
+			(at 201.93 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7098,7 +7234,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 202.2032 68.58 0)
+			(at 201.93 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7109,7 +7245,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 202.2032 68.58 0)
+			(at 201.93 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7120,7 +7256,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 202.2032 68.58 90)
+			(at 201.93 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7131,7 +7267,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 202.2032 68.58 90)
+			(at 201.93 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7142,7 +7278,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 202.2032 68.58 90)
+			(at 201.93 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7183,7 +7319,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 171.7232 78.74 90)
+		(at 171.45 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7193,7 +7329,7 @@
 		(dnp no)
 		(uuid "5194428f-7fd2-40fc-8647-c9fc90c6445d")
 		(property "Reference" "D42"
-			(at 168.1672 77.216 90)
+			(at 167.894 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7204,7 +7340,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 168.1672 65.532 90)
+			(at 167.894 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7216,7 +7352,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 171.7232 78.74 0)
+			(at 171.45 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7227,7 +7363,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 171.7232 78.74 0)
+			(at 171.45 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7238,7 +7374,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 171.7232 78.74 0)
+			(at 171.45 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7249,7 +7385,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 171.7232 78.74 90)
+			(at 171.45 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7260,7 +7396,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 171.7232 78.74 90)
+			(at 171.45 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7271,7 +7407,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 171.7232 78.74 90)
+			(at 171.45 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7794,7 +7930,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 232.6832 78.74 90)
+		(at 232.41 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7804,7 +7940,7 @@
 		(dnp no)
 		(uuid "5b1dffd5-4b74-4daf-8fc9-52e28273b563")
 		(property "Reference" "D48"
-			(at 229.1272 77.216 90)
+			(at 228.854 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7815,7 +7951,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 229.1272 65.532 90)
+			(at 228.854 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7827,7 +7963,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 232.6832 78.74 0)
+			(at 232.41 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7838,7 +7974,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 232.6832 78.74 0)
+			(at 232.41 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7849,7 +7985,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 232.6832 78.74 0)
+			(at 232.41 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7860,7 +7996,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 232.6832 78.74 90)
+			(at 232.41 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7871,7 +8007,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 232.6832 78.74 90)
+			(at 232.41 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7882,7 +8018,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 232.6832 78.74 90)
+			(at 232.41 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8181,7 +8317,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 222.5232 78.74 90)
+		(at 222.25 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8191,7 +8327,7 @@
 		(dnp no)
 		(uuid "5c9c9da9-4605-49dd-8c44-f3bc6a1303ee")
 		(property "Reference" "D47"
-			(at 218.9672 77.216 90)
+			(at 218.694 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8202,7 +8338,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 218.9672 65.532 90)
+			(at 218.694 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8214,7 +8350,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 222.5232 78.74 0)
+			(at 222.25 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8225,7 +8361,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 222.5232 78.74 0)
+			(at 222.25 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8236,7 +8372,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 222.5232 78.74 0)
+			(at 222.25 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8247,7 +8383,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 222.5232 78.74 90)
+			(at 222.25 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8258,7 +8394,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 222.5232 78.74 90)
+			(at 222.25 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8269,7 +8405,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 222.5232 78.74 90)
+			(at 222.25 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8680,7 +8816,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 161.5632 68.58 90)
+		(at 161.29 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8690,7 +8826,7 @@
 		(dnp no)
 		(uuid "67d59fc0-fb7d-452a-8539-672e1a4d88b1")
 		(property "Reference" "D31"
-			(at 158.0072 67.056 90)
+			(at 157.734 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8701,7 +8837,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 158.0072 55.372 90)
+			(at 157.734 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8713,7 +8849,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 161.5632 68.58 0)
+			(at 161.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8724,7 +8860,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 161.5632 68.58 0)
+			(at 161.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8735,7 +8871,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 161.5632 68.58 0)
+			(at 161.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8746,7 +8882,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 161.5632 68.58 90)
+			(at 161.29 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8757,7 +8893,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 161.5632 68.58 90)
+			(at 161.29 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8768,7 +8904,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 161.5632 68.58 90)
+			(at 161.29 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9695,7 +9831,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 181.8832 78.74 90)
+		(at 181.61 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9705,7 +9841,7 @@
 		(dnp no)
 		(uuid "7c589502-f6de-4d44-80b9-220f4eaf73df")
 		(property "Reference" "D43"
-			(at 178.3272 77.216 90)
+			(at 178.054 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9716,7 +9852,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 178.3272 65.532 90)
+			(at 178.054 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9728,7 +9864,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 181.8832 78.74 0)
+			(at 181.61 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9739,7 +9875,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 181.8832 78.74 0)
+			(at 181.61 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9750,7 +9886,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 181.8832 78.74 0)
+			(at 181.61 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9761,7 +9897,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 181.8832 78.74 90)
+			(at 181.61 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9772,7 +9908,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 181.8832 78.74 90)
+			(at 181.61 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9783,7 +9919,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 181.8832 78.74 90)
+			(at 181.61 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10469,7 +10605,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 151.4032 68.58 90)
+		(at 151.13 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10479,7 +10615,7 @@
 		(dnp no)
 		(uuid "8eee71a2-9007-4f96-87ae-db90040efb28")
 		(property "Reference" "D30"
-			(at 147.8472 67.056 90)
+			(at 147.574 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10490,7 +10626,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 147.8472 55.372 90)
+			(at 147.574 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10502,7 +10638,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 151.4032 68.58 0)
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10513,7 +10649,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 151.4032 68.58 0)
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10524,7 +10660,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 151.4032 68.58 0)
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10535,7 +10671,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 151.4032 68.58 90)
+			(at 151.13 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10546,7 +10682,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 151.4032 68.58 90)
+			(at 151.13 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10557,7 +10693,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 151.4032 68.58 90)
+			(at 151.13 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10598,7 +10734,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 232.6832 68.58 90)
+		(at 232.41 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10608,7 +10744,7 @@
 		(dnp no)
 		(uuid "8f034744-a2c9-44f5-8df6-886da5b86d05")
 		(property "Reference" "D38"
-			(at 229.1272 67.056 90)
+			(at 228.854 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10619,7 +10755,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 229.1272 55.372 90)
+			(at 228.854 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10631,7 +10767,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 232.6832 68.58 0)
+			(at 232.41 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10642,7 +10778,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 232.6832 68.58 0)
+			(at 232.41 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10653,7 +10789,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 232.6832 68.58 0)
+			(at 232.41 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10664,7 +10800,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 232.6832 68.58 90)
+			(at 232.41 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10675,7 +10811,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 232.6832 68.58 90)
+			(at 232.41 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10686,7 +10822,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 232.6832 68.58 90)
+			(at 232.41 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11467,7 +11603,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 171.7232 68.58 90)
+		(at 171.45 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11477,7 +11613,7 @@
 		(dnp no)
 		(uuid "a62bdaac-4178-450d-999d-3da4a71c9b1a")
 		(property "Reference" "D32"
-			(at 168.1672 67.056 90)
+			(at 167.894 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11488,7 +11624,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 168.1672 55.372 90)
+			(at 167.894 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11500,7 +11636,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 171.7232 68.58 0)
+			(at 171.45 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11511,7 +11647,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 171.7232 68.58 0)
+			(at 171.45 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11522,7 +11658,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 171.7232 68.58 0)
+			(at 171.45 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11533,7 +11669,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 171.7232 68.58 90)
+			(at 171.45 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11544,7 +11680,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 171.7232 68.58 90)
+			(at 171.45 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11555,7 +11691,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 171.7232 68.58 90)
+			(at 171.45 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11596,7 +11732,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 242.8432 78.74 90)
+		(at 242.57 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11606,7 +11742,7 @@
 		(dnp no)
 		(uuid "a734b94f-436d-4763-9a9b-2b6a0ceff3c4")
 		(property "Reference" "D49"
-			(at 239.2872 77.216 90)
+			(at 239.014 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11617,7 +11753,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 239.2872 65.532 90)
+			(at 239.014 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11629,7 +11765,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 242.8432 78.74 0)
+			(at 242.57 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11640,7 +11776,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 242.8432 78.74 0)
+			(at 242.57 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11651,7 +11787,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 242.8432 78.74 0)
+			(at 242.57 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11662,7 +11798,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 242.8432 78.74 90)
+			(at 242.57 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11673,7 +11809,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 242.8432 78.74 90)
+			(at 242.57 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11684,7 +11820,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 242.8432 78.74 90)
+			(at 242.57 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13368,7 +13504,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 212.3632 78.74 90)
+		(at 212.09 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13378,7 +13514,7 @@
 		(dnp no)
 		(uuid "c659a923-3edb-4269-9c30-2ca1a1961e0c")
 		(property "Reference" "D46"
-			(at 208.8072 77.216 90)
+			(at 208.534 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13389,7 +13525,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 208.8072 65.532 90)
+			(at 208.534 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13401,7 +13537,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 212.3632 78.74 0)
+			(at 212.09 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13412,7 +13548,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 212.3632 78.74 0)
+			(at 212.09 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13423,7 +13559,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 212.3632 78.74 0)
+			(at 212.09 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13434,7 +13570,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 212.3632 78.74 90)
+			(at 212.09 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13445,7 +13581,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 212.3632 78.74 90)
+			(at 212.09 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13456,7 +13592,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 212.3632 78.74 90)
+			(at 212.09 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14512,7 +14648,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 192.0432 68.58 90)
+		(at 191.77 68.58 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14522,7 +14658,7 @@
 		(dnp no)
 		(uuid "d5be036a-d669-4197-8a4f-d0b7e72ad152")
 		(property "Reference" "D34"
-			(at 188.4872 67.056 90)
+			(at 188.214 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14533,7 +14669,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 188.4872 55.372 90)
+			(at 188.214 55.372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14545,7 +14681,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 192.0432 68.58 0)
+			(at 191.77 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14556,7 +14692,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 192.0432 68.58 0)
+			(at 191.77 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14567,7 +14703,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 192.0432 68.58 0)
+			(at 191.77 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14578,7 +14714,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 192.0432 68.58 90)
+			(at 191.77 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14589,7 +14725,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 192.0432 68.58 90)
+			(at 191.77 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14600,7 +14736,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 192.0432 68.58 90)
+			(at 191.77 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16043,7 +16179,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_45deg_Filled")
-		(at 151.4032 78.74 90)
+		(at 151.13 78.74 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16053,7 +16189,7 @@
 		(dnp no)
 		(uuid "fafaff47-5fee-45a5-93f4-b737210e4abc")
 		(property "Reference" "D40"
-			(at 147.8472 77.216 90)
+			(at 147.574 77.216 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16064,7 +16200,7 @@
 			)
 		)
 		(property "Value" "LED_45deg_Filled"
-			(at 147.8472 65.532 90)
+			(at 147.574 65.532 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16076,7 +16212,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 151.4032 78.74 0)
+			(at 151.13 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16087,7 +16223,7 @@
 			)
 		)
 		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
-			(at 151.4032 78.74 0)
+			(at 151.13 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16098,7 +16234,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
-			(at 151.4032 78.74 0)
+			(at 151.13 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16109,7 +16245,7 @@
 			)
 		)
 		(property "Manufacturer" "AMS Osram"
-			(at 151.4032 78.74 90)
+			(at 151.13 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16120,7 +16256,7 @@
 			)
 		)
 		(property "P/N" "LT Q99G.01"
-			(at 151.4032 78.74 90)
+			(at 151.13 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16131,7 +16267,7 @@
 			)
 		)
 		(property "Part Description" ""
-			(at 151.4032 78.74 90)
+			(at 151.13 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

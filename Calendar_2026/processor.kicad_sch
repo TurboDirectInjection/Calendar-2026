@@ -3392,12 +3392,52 @@
 		(uuid "fa3ca92e-195b-4f5b-bf17-d413f97497d6")
 	)
 	(no_connect
+		(at 132.08 109.22)
+		(uuid "122f60e7-e587-42fa-b27c-ee18f027f76c")
+	)
+	(no_connect
+		(at 132.08 111.76)
+		(uuid "48faea52-867d-4e02-8f73-07b927a6a7f4")
+	)
+	(no_connect
+		(at 132.08 93.98)
+		(uuid "62ccba09-af96-431f-a5de-3634296a3e54")
+	)
+	(no_connect
+		(at 132.08 129.54)
+		(uuid "73d3e333-fdbc-4582-90ec-fd482044d528")
+	)
+	(no_connect
+		(at 132.08 99.06)
+		(uuid "744adcab-dde6-4ab9-ac49-98dc53ac0fe2")
+	)
+	(no_connect
+		(at 132.08 124.46)
+		(uuid "7a77c048-4117-427d-8caa-cdef2074a19e")
+	)
+	(no_connect
+		(at 132.08 106.68)
+		(uuid "872dcb78-0b50-44e9-8444-ad80b90ad098")
+	)
+	(no_connect
 		(at 165.1 66.04)
 		(uuid "8e730650-eb7c-4ee7-91b4-c02ec66c92b5")
 	)
 	(no_connect
+		(at 132.08 104.14)
+		(uuid "96e196fa-5f6a-4d33-992d-dcdc2e7544c3")
+	)
+	(no_connect
 		(at 132.08 71.12)
 		(uuid "96f944ca-47bf-444b-96a8-5e701e0be949")
+	)
+	(no_connect
+		(at 132.08 121.92)
+		(uuid "9a13b181-d083-44a6-9a11-a491cd62b265")
+	)
+	(no_connect
+		(at 132.08 78.74)
+		(uuid "a9a5e20e-a015-4ec0-9a23-72e1a7919e0a")
 	)
 	(no_connect
 		(at 132.08 68.58)
@@ -3599,6 +3639,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 121.92) (xy 133.35 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23f7c09c-0d14-4119-a4d3-27a51b602123")
+	)
+	(wire
+		(pts
 			(xy 111.76 73.66) (xy 115.57 73.66)
 		)
 		(stroke
@@ -3639,6 +3689,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 93.98) (xy 133.35 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32cc6858-0dc2-464f-9a86-d91a2e84f761")
+	)
+	(wire
+		(pts
 			(xy 201.93 66.04) (xy 204.47 66.04)
 		)
 		(stroke
@@ -3656,6 +3716,16 @@
 			(type default)
 		)
 		(uuid "34deb05e-3dcd-46fe-8ec0-25ede499674a")
+	)
+	(wire
+		(pts
+			(xy 132.08 109.22) (xy 133.35 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "350488b8-978a-4acc-a727-28a4d240bdf2")
 	)
 	(wire
 		(pts
@@ -3706,6 +3776,16 @@
 			(type default)
 		)
 		(uuid "430a2b71-fdb2-47ad-968b-29cd31cd403c")
+	)
+	(wire
+		(pts
+			(xy 132.08 129.54) (xy 133.35 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46fba7be-df2a-4cb3-8e2e-056444a30eab")
 	)
 	(wire
 		(pts
@@ -3859,6 +3939,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 104.14) (xy 133.35 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "717d6b08-e424-4c28-8a0a-e82a1269270e")
+	)
+	(wire
+		(pts
 			(xy 153.67 53.34) (xy 153.67 55.88)
 		)
 		(stroke
@@ -3916,6 +4006,16 @@
 			(type default)
 		)
 		(uuid "755db0d0-fca5-4cb4-bb89-75d66cb27de9")
+	)
+	(wire
+		(pts
+			(xy 132.08 78.74) (xy 133.35 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "776a606c-087e-4199-8dad-5215800c65ab")
 	)
 	(wire
 		(pts
@@ -4189,6 +4289,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 124.46) (xy 133.35 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b08d5532-0c14-4743-a548-57ba7930242a")
+	)
+	(wire
+		(pts
 			(xy 120.65 88.9) (xy 133.35 88.9)
 		)
 		(stroke
@@ -4329,6 +4439,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 99.06) (xy 133.35 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d221f6ee-2e30-4f9e-bbed-be710c192d5f")
+	)
+	(wire
+		(pts
 			(xy 106.68 151.13) (xy 106.68 140.97)
 		)
 		(stroke
@@ -4366,6 +4486,16 @@
 			(type default)
 		)
 		(uuid "deb37de3-4ce2-4bb5-b953-a233a1b083e9")
+	)
+	(wire
+		(pts
+			(xy 132.08 111.76) (xy 133.35 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2311c03-beb6-49f9-a923-2a9332537e24")
 	)
 	(wire
 		(pts
@@ -4546,6 +4676,16 @@
 			(type default)
 		)
 		(uuid "fbd60f00-a9cf-4960-9221-4cd828f774bd")
+	)
+	(wire
+		(pts
+			(xy 132.08 106.68) (xy 133.35 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc31e539-bee7-498f-b7fa-6f568da06037")
 	)
 	(wire
 		(pts
@@ -5514,17 +5654,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C8")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
 					(variant
 						(name "Simple")
 						(field
@@ -6953,17 +7082,6 @@
 					(reference "C6")
 					(unit 1)
 					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
-					(variant
 						(name "Simple")
 						(field
 							(name "Datasheet")
@@ -7126,17 +7244,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C5")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
 					(variant
 						(name "Simple")
 						(field
@@ -7388,17 +7495,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C4")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
 					(variant
 						(name "Simple")
 						(field
@@ -7943,17 +8039,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C3")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
 					(variant
 						(name "Simple")
 						(field
@@ -8523,17 +8608,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C1")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
 					(variant
 						(name "Simple")
 						(field
@@ -9405,17 +9479,6 @@
 					(reference "C2")
 					(unit 1)
 					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
-					(variant
 						(name "Simple")
 						(field
 							(name "Datasheet")
@@ -9693,17 +9756,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C7")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-					)
 					(variant
 						(name "Simple")
 						(field

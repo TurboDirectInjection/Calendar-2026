@@ -722,7 +722,7 @@
         "uuid": "1704f67e-d01e-4841-9731-81fe72ec3016"
       }
     ],
-    "used_designators": "R1-19,BT1-2,D1-43,D45-54,D56-65,D67-76,D78-87,D89-98,L1,#PWR10-11,#PWR16-35,#PWR50,Y1,U2,C9-16,Q1,J1-2,JP1,F1",
+    "used_designators": "#FLG1-3,R1-19,BT1-2,D1-43,D45-54,D56-65,D67-76,D78-87,D89-98,L1,#PWR10-11,#PWR16-35,#PWR50,Y1,U2,C9-16,Q1,J1-2,JP1,F1",
     "variants": [
       {
         "description": "Fancier power system with boost converter for max LED brightness",
@@ -740,16 +740,16 @@
       "Root"
     ],
     [
+      "efcde9fa-4498-4e2e-abb4-78f0f6ade801",
+      "Power"
+    ],
+    [
       "5d2683ac-2283-4439-ab51-70821fbaed1b",
       "Processor"
     ],
     [
       "d8e6882c-ce51-4fdc-bd9e-082c6327fcde",
       "LED Matrix"
-    ],
-    [
-      "efcde9fa-4498-4e2e-abb4-78f0f6ade801",
-      "Power"
     ]
   ],
   "text_variables": {},
