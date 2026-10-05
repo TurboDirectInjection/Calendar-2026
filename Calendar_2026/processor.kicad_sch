@@ -6023,7 +6023,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "4d25bb08-d81d-45fe-9076-baeda63c4864")
-		(property "Reference" "D33"
+		(property "Reference" "D102"
 			(at 198.12 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6108,7 +6108,7 @@
 		(instances
 			(project "Calendar_2026"
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
-					(reference "D33")
+					(reference "D102")
 					(unit 1)
 				)
 			)
@@ -6641,7 +6641,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "675abb92-11ff-459f-8081-875ae5c50aea")
-		(property "Reference" "D22"
+		(property "Reference" "D101"
 			(at 102.87 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6661,7 +6661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 102.87 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -6672,7 +6672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "kicad-embed://ltq99g.01en.pdf"
 			(at 102.87 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -6705,6 +6705,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" "AMS Osram"
+			(at 102.87 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "LT Q99G.01"
+			(at 102.87 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8a52cdf2-d343-4af4-87bd-dc06b7aca03b")
 		)
@@ -6714,7 +6736,7 @@
 		(instances
 			(project "Calendar_2026"
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
-					(reference "D22")
+					(reference "D101")
 					(unit 1)
 				)
 			)
