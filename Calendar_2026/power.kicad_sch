@@ -2894,24 +2894,12 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://PTC_Polyfuse_MF-USMF005.pdf")
-						)
-						(field
 							(name "Footprint")
 							(value "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder")
 						)
 						(field
-							(name "Manufacturer")
-							(value "Bourns")
-						)
-						(field
 							(name "P/N")
 							(value "MF-USMF005-2")
-						)
-						(field
-							(name "Vmax")
-							(value "30V")
 						)
 					)
 				)
@@ -3196,14 +3184,6 @@
 					(variant
 						(name "Simple")
 						(dnp no)
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://NMOS_BSS138-D.PDF")
-						)
-						(field
-							(name "Footprint")
-							(value "Package_TO_SOT_SMD:SOT-23")
-						)
 					)
 				)
 			)
@@ -3344,24 +3324,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://10uF_SEMS-S-A0008526575-1.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_1210_3225Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Samsung")
-						)
-						(field
-							(name "P/N")
-							(value "CL32B106KLJNNNE")
 						)
 						(field
 							(name "Vmax")
@@ -3693,10 +3657,6 @@
 					(variant
 						(name "Simple")
 						(dnp no)
-						(field
-							(name "Footprint")
-							(value "Resistor_SMD:R_0603_1608Metric")
-						)
 					)
 				)
 			)
@@ -3903,20 +3863,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://TVS_5399_SLPESD03V32D SOD-323.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "Diode_SMD:D_SOD-323_HandSoldering")
-						)
-						(field
 							(name "Manufacturer")
 							(value "Shenzhen Slkormicro")
-						)
-						(field
-							(name "P/N")
-							(value "SLPESD03V32D")
 						)
 						(field
 							(name "Value")
@@ -4046,14 +3994,6 @@
 					(variant
 						(name "Simple")
 						(dnp yes)
-						(field
-							(name "Footprint")
-							(value "Battery:BatteryHolder_Keystone_2462_2xAA")
-						)
-						(field
-							(name "Value")
-							(value "2xAA")
-						)
 					)
 				)
 			)
@@ -4195,24 +4135,8 @@
 						(name "Simple")
 						(dnp yes)
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://10uF_SEMS-S-A0008526575-1.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_1210_3225Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Samsung")
-						)
-						(field
-							(name "P/N")
-							(value "CL32B106KLJNNNE")
 						)
 						(field
 							(name "Vmax")
@@ -4333,7 +4257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
 			(at 104.14 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4413,10 +4337,6 @@
 					(variant
 						(name "Regulator")
 						(field
-							(name "Footprint")
-							(value "")
-						)
-						(field
 							(name "Value")
 							(value "4u7")
 						)
@@ -4425,20 +4345,8 @@
 						(name "Simple")
 						(dnp yes)
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://L_lsqba321818t4r7m.pdf")
-						)
-						(field
 							(name "Footprint")
 							(value "Inductor_SMD:L_1210_3225Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Taiyo Yuden")
-						)
-						(field
-							(name "P/N")
-							(value "LSQBA321818T4R7M")
 						)
 						(field
 							(name "Value")
@@ -4586,20 +4494,8 @@
 						(name "Simple")
 						(dnp yes)
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -5392,20 +5288,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -5612,17 +5496,6 @@
 					(variant
 						(name "Regulator")
 						(dnp yes)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Footprint")
-							(value "calendar_ftpts:BAT-HLD-001")
-						)
-						(field
-							(name "Value")
-							(value "CR2032")
-						)
 					)
 				)
 			)

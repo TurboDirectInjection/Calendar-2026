@@ -5507,17 +5507,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "SW1")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "calendar_ftpts:Button_Switch_SMD_FSM2JSMAA")
-						)
-					)
 				)
 			)
 		)
@@ -5657,20 +5646,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -6666,17 +6643,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "SW2")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "calendar_ftpts:Button_Switch_SMD_FSM2JSMAA")
-						)
-					)
 				)
 			)
 		)
@@ -7084,20 +7050,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -7247,20 +7201,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -7498,20 +7440,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -7892,17 +7822,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "SW4")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "calendar_ftpts:Button_Switch_SMD_FSM2JSMAA")
-						)
-					)
 				)
 			)
 		)
@@ -8042,20 +7961,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -8611,20 +8518,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -9253,17 +9148,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "SW3")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf")
-						)
-						(field
-							(name "Footprint")
-							(value "calendar_ftpts:Button_Switch_SMD_FSM2JSMAA")
-						)
-					)
 				)
 			)
 		)
@@ -9481,20 +9365,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
@@ -9759,20 +9631,8 @@
 					(variant
 						(name "Simple")
 						(field
-							(name "Datasheet")
-							(value "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf")
-						)
-						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "Footprint")
-							(value "Capacitor_SMD:C_0402_1005Metric")
-						)
-						(field
-							(name "Manufacturer")
-							(value "Murata")
 						)
 						(field
 							(name "P/N")
