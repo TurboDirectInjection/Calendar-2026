@@ -6162,10 +6162,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "34fd2557-b3d4-4afb-a3c3-82d1d0183c28")
 		(property "Reference" "D90"
 			(at 147.574 128.016 90)
@@ -6269,6 +6269,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6276,6 +6280,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6291,10 +6299,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "351e5020-6123-47d1-9e8c-f8bd645b3ea8")
 		(property "Reference" "D95"
 			(at 198.374 128.016 90)
@@ -6398,6 +6406,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6405,6 +6417,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6678,10 +6694,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "426abb9e-a0d5-4712-8c2b-46f6615d1277")
 		(property "Reference" "D93"
 			(at 178.054 128.016 90)
@@ -6785,6 +6801,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6792,6 +6812,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6807,10 +6831,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "49381bb7-2ce5-468a-b04b-05a8da0edc53")
 		(property "Reference" "D96"
 			(at 208.534 128.016 90)
@@ -6914,6 +6938,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -6921,6 +6949,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -9964,10 +9996,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "7c71211e-7d69-472e-bd12-efce9e1b6719")
 		(property "Reference" "D92"
 			(at 167.894 128.016 90)
@@ -10071,6 +10103,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -10078,6 +10114,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -10867,10 +10907,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "90ced330-8fab-40c9-8c11-259093a8e4c2")
 		(property "Reference" "D94"
 			(at 188.214 128.016 90)
@@ -10974,6 +11014,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -10981,6 +11025,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -10996,10 +11044,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "99fa6b39-ff45-4d18-95cf-50186662f812")
 		(property "Reference" "D98"
 			(at 228.854 128.016 90)
@@ -11103,6 +11151,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -11110,6 +11162,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -14910,10 +14966,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "d8a632b9-3259-45a3-ad56-bd1655810572")
 		(property "Reference" "D91"
 			(at 157.734 128.016 90)
@@ -15017,6 +15073,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -15024,6 +15084,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -15925,10 +15989,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "e9d3ea7c-9dde-4058-af40-0f29b72e728b")
 		(property "Reference" "D97"
 			(at 218.694 128.016 90)
@@ -16032,6 +16096,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -16039,6 +16107,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -16054,10 +16126,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "ec787f1d-db13-4d67-b264-f6e4e5a6521a")
 		(property "Reference" "D89"
 			(at 239.014 117.856 90)
@@ -16161,6 +16233,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -16168,6 +16244,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
