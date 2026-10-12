@@ -3272,18 +3272,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Add select?"
-		(exclude_from_sim no)
-		(at 116.078 157.226 0)
-		(effects
-			(font
-				(size 5 5)
-				(thickness 1)
-				(bold yes)
-			)
-		)
-		(uuid "3c4179c1-2349-4e4e-9443-9d319a9b990e")
-	)
 	(text "CRYSTAL CAPS\nC_{stray} = 5 pF (approx)\nC_{L} = 9 pF\nC_{1} = C_{2} \n   = 2(C_{L} - C_{stray})\n   = 8 pF"
 		(exclude_from_sim no)
 		(at 76.2 83.82 0)

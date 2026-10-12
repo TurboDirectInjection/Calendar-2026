@@ -2502,6 +2502,16 @@
 		)
 		(uuid "ffc761f0-f8d5-4236-b1c2-7f57b3cc3542")
 	)
+	(label "V_{Batt}"
+		(at 133.35 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d1abb60-74f3-4c39-8b54-3fbc46a53048")
+	)
 	(hierarchical_label "Batt.Sense.Enable"
 		(shape input)
 		(at 167.64 91.44 0)
@@ -2992,7 +3002,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "28b5b4f4-26e5-4c5e-a6ae-4b8a310d7db9")
 		(property "Reference" "R17"
 			(at 156.21 88.9 90)
@@ -3071,7 +3081,6 @@
 					(unit 1)
 					(variant
 						(name "Simple")
-						(dnp no)
 						(field
 							(name "Footprint")
 							(value "Resistor_SMD:R_0603_1608Metric")
@@ -3091,7 +3100,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "35d901a9-c8b1-49f0-a3df-195b0f094b27")
 		(property "Reference" "Q1"
 			(at 140.462 91.44 0)
@@ -3180,10 +3189,6 @@
 							(name "Footprint")
 							(value "")
 						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
 					)
 				)
 			)
@@ -3345,7 +3350,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3e1d477b-4d2a-42f6-95d0-4880307a076a")
 		(property "Reference" "R12"
 			(at 140.97 82.55 90)
@@ -3444,10 +3449,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/efcde9fa-4498-4e2e-abb4-78f0f6ade801"
 					(reference "R12")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(dnp no)
-					)
 				)
 			)
 		)
@@ -3461,7 +3462,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "41e0b852-b329-4e93-888d-542514196d5b")
 		(property "Reference" "R11"
 			(at 140.97 72.39 90)
@@ -3561,8 +3562,11 @@
 					(reference "R11")
 					(unit 1)
 					(variant
-						(name "Simple")
-						(dnp no)
+						(name "Regulator")
+						(field
+							(name "Value")
+							(value "33k")
+						)
 					)
 				)
 			)
