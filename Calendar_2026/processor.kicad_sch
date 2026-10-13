@@ -3344,6 +3344,12 @@
 		(uuid "cd735435-858b-4dea-aa88-04016e74fa02")
 	)
 	(junction
+		(at 209.55 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d74a3366-8eef-48c9-8989-8852d0bfb11e")
+	)
+	(junction
 		(at 146.05 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3604,6 +3610,16 @@
 			(type default)
 		)
 		(uuid "10d61b55-6571-4600-8ad2-e9725af2ba1f")
+	)
+	(wire
+		(pts
+			(xy 209.55 44.45) (xy 222.25 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "128ce473-e537-48fa-944b-9ead3a0ab4e1")
 	)
 	(wire
 		(pts
@@ -4564,6 +4580,16 @@
 			(type default)
 		)
 		(uuid "edac8eb5-807d-457e-bc8e-129b3717e768")
+	)
+	(wire
+		(pts
+			(xy 222.25 44.45) (xy 222.25 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f33a8a21-2ae4-4154-9563-e4e582c9d233")
 	)
 	(wire
 		(pts
@@ -6204,6 +6230,157 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "D102")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 222.25 49.53 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "50b554f1-516c-43dc-972a-d1820c8575a8")
+		(property "Reference" "C12"
+			(at 218.44 48.2599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 218.44 50.7999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 223.2152 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "kicad-embed://100n_GRT155R71H104KE01-01A-EN.pdf"
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Description" ""
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" ""
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CC0603JRNPO9BN8R0"
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vmax" ""
+			(at 222.25 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b6ed9cc0-25ce-43f1-b71d-cf9128618d0a")
+		)
+		(pin "1"
+			(uuid "ca534f7e-5705-4286-aa7a-6ffb027682c4")
+		)
+		(instances
+			(project "Calendar_2026"
+				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
+					(reference "C12")
+					(unit 1)
+					(variant
+						(name "Simple")
+						(field
+							(name "Dielectric")
+							(value "X7R")
+						)
+						(field
+							(name "P/N")
+							(value " GRT155R71H104KE01D ")
+						)
+						(field
+							(name "Vmax")
+							(value "50V")
+						)
+					)
 				)
 			)
 		)
@@ -7961,6 +8138,84 @@
 							(value "50V")
 						)
 					)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 222.25 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "948ffd98-4d9d-4df5-ab7d-d84493a6ed0d")
+		(property "Reference" "#PWR024"
+			(at 222.25 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 222.25 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 222.25 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 222.25 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "67a16e15-bb60-4ad5-a70a-2982a3332349")
+		)
+		(instances
+			(project "Calendar_2026"
+				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
+					(reference "#PWR024")
+					(unit 1)
 				)
 			)
 		)

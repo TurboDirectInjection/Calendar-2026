@@ -14292,10 +14292,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "cfbf0724-815a-46a6-98dd-a0f08d06c312")
 		(property "Reference" "D65"
 			(at 198.374 97.536 90)
@@ -14399,6 +14399,10 @@
 					(unit 1)
 					(variant
 						(name "Regulator")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
@@ -14406,6 +14410,10 @@
 					)
 					(variant
 						(name "Simple")
+						(dnp no)
+						(in_bom yes)
+						(on_board yes)
+						(in_pos_files yes)
 						(field
 							(name "Value")
 							(value "LED")
