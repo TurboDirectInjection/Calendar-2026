@@ -3827,7 +3827,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -3916,20 +3916,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D1")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -3956,7 +3942,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -4045,20 +4031,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D27")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4085,7 +4057,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -4174,20 +4146,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D39")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4214,7 +4172,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -4303,20 +4261,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D13")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4343,7 +4287,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -4432,20 +4376,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D85")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4472,7 +4402,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -4561,20 +4491,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D45")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4601,7 +4517,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -4690,20 +4606,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D59")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4730,7 +4632,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -4819,20 +4721,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D10")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4859,7 +4747,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -4948,20 +4836,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D19")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -4988,7 +4862,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -5077,20 +4951,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D37")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5117,7 +4977,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -5206,20 +5066,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D21")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5246,7 +5092,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -5335,20 +5181,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D4")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5375,7 +5207,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -5464,20 +5296,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D23")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5504,7 +5322,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -5593,20 +5411,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D18")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5633,7 +5437,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -5722,20 +5526,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D71")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5762,7 +5552,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -5851,20 +5641,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D14")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -5891,7 +5667,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -5980,20 +5756,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D86")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6020,7 +5782,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -6109,20 +5871,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D24")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6149,7 +5897,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -6238,20 +5986,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D62")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6278,7 +6012,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -6367,28 +6101,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D90")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6415,7 +6127,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -6504,28 +6216,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D95")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6552,7 +6242,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -6641,20 +6331,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D28")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6681,7 +6357,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -6770,20 +6446,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D60")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6810,7 +6472,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -6899,28 +6561,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D93")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -6947,7 +6587,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -7036,28 +6676,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D96")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -7084,7 +6702,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -7173,20 +6791,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D41")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -7213,7 +6817,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -7302,20 +6906,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D87")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -7342,7 +6932,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -7431,20 +7021,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D35")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -7471,7 +7047,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -7560,20 +7136,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D42")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -7712,7 +7274,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -7801,20 +7363,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D7")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -7841,7 +7389,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -7930,20 +7478,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D58")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8082,7 +7616,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -8171,20 +7705,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D48")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8211,7 +7731,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -8300,20 +7820,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D75")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8340,7 +7846,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -8429,20 +7935,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D12")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8469,7 +7961,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -8558,20 +8050,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D47")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8598,7 +8076,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -8687,20 +8165,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D64")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8839,7 +8303,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -8928,20 +8392,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D70")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -8968,7 +8418,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -9057,20 +8507,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D31")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9097,7 +8533,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -9186,20 +8622,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D16")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9226,7 +8648,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -9315,20 +8737,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D81")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9355,7 +8763,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -9444,20 +8852,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D57")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9484,7 +8878,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -9573,20 +8967,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D83")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9725,7 +9105,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -9814,20 +9194,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D50")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9854,7 +9220,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -9943,20 +9309,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D84")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -9983,7 +9335,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -10072,20 +9424,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D43")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10112,7 +9450,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -10201,28 +9539,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D92")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10249,7 +9565,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -10338,20 +9654,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D79")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10378,7 +9680,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -10467,20 +9769,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D56")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10507,7 +9795,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -10596,20 +9884,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D15")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10636,7 +9910,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -10725,20 +9999,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D20")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10765,7 +10025,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -10854,20 +10114,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D30")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -10894,7 +10140,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -10983,20 +10229,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D38")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -11023,7 +10255,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -11112,28 +10344,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D94")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -11160,7 +10370,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -11249,28 +10459,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D98")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -11297,7 +10485,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -11386,20 +10574,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D53")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -11650,7 +10824,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -11739,20 +10913,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D78")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -11779,7 +10939,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -11868,20 +11028,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D32")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -11908,7 +11054,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -11997,20 +11143,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D49")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -12037,7 +11169,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -12126,20 +11258,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D80")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -12166,7 +11284,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -12255,20 +11373,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D61")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -12295,7 +11399,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -12384,20 +11488,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D5")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -12424,7 +11514,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -12513,20 +11603,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D69")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -12777,7 +11853,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -12866,20 +11942,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D63")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -12906,7 +11968,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -12995,20 +12057,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D54")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13035,7 +12083,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -13124,20 +12172,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D26")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13164,7 +12198,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -13253,20 +12287,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D52")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13293,7 +12313,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -13382,20 +12402,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D82")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13422,7 +12428,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -13511,20 +12517,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D36")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13551,7 +12543,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -13640,20 +12632,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D8")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13680,7 +12658,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -13769,20 +12747,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D46")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13809,7 +12773,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 35.052 90)
 			(hide yes)
 			(show_name no)
@@ -13898,20 +12862,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D17")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -13938,7 +12888,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -14027,20 +12977,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D67")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14067,7 +13003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -14156,20 +13092,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D74")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14308,7 +13230,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -14397,28 +13319,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D65")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14445,7 +13345,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 228.854 85.852 90)
 			(hide yes)
 			(show_name no)
@@ -14534,20 +13434,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D68")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14574,7 +13460,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -14663,20 +13549,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D73")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14703,7 +13575,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -14792,20 +13664,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D2")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14832,7 +13690,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 188.214 55.372 90)
 			(hide yes)
 			(show_name no)
@@ -14921,20 +13779,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D34")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -14961,7 +13805,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -15050,20 +13894,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D6")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15090,7 +13920,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -15179,28 +14009,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D91")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15227,7 +14035,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -15316,20 +14124,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D29")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15468,7 +14262,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 167.894 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -15557,20 +14351,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D72")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15597,7 +14377,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 157.734 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -15686,20 +14466,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D51")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15726,7 +14492,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 198.374 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -15815,20 +14581,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D25")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15855,7 +14607,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -15944,20 +14696,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D9")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -15984,7 +14722,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 178.054 24.892 90)
 			(hide yes)
 			(show_name no)
@@ -16073,20 +14811,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D3")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -16113,7 +14837,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 218.694 116.332 90)
 			(hide yes)
 			(show_name no)
@@ -16202,28 +14926,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D97")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -16250,7 +14952,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 239.014 106.172 90)
 			(hide yes)
 			(show_name no)
@@ -16339,28 +15041,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D89")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(dnp no)
-						(in_bom yes)
-						(on_board yes)
-						(in_pos_files yes)
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -16387,7 +15067,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 147.574 65.532 90)
 			(hide yes)
 			(show_name no)
@@ -16476,20 +15156,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D40")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)
@@ -16516,7 +15182,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_45deg_Filled"
+		(property "Value" "LED"
 			(at 208.534 96.012 90)
 			(hide yes)
 			(show_name no)
@@ -16605,20 +15271,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/d8e6882c-ce51-4fdc-bd9e-082c6327fcde"
 					(reference "D76")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
-					(variant
-						(name "Simple")
-						(field
-							(name "Value")
-							(value "LED")
-						)
-					)
 				)
 			)
 		)

@@ -5156,7 +5156,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://CC0603JRNPO9BN8R0.pdf"
+		(property "Datasheet" "kicad-embed://8p_CC0603JRNPO9BN8R0.pdf"
 			(at 104.14 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5245,13 +5245,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C11")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://8p_CC0603JRNPO9BN8R0.pdf")
-						)
-					)
 				)
 			)
 		)
@@ -5624,7 +5617,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 209.55 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5662,10 +5655,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -5798,7 +5787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://CC0603JRNPO9BN8R0.pdf"
+		(property "Datasheet" "kicad-embed://8p_CC0603JRNPO9BN8R0.pdf"
 			(at 104.14 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -5887,13 +5876,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/5d2683ac-2283-4439-ab51-70821fbaed1b"
 					(reference "C10")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Datasheet")
-							(value "kicad-embed://8p_CC0603JRNPO9BN8R0.pdf")
-						)
-					)
 				)
 			)
 		)
@@ -6333,7 +6315,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 222.25 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6371,10 +6353,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -7179,7 +7157,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 184.15 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7217,10 +7195,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -7330,7 +7304,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 171.45 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7368,10 +7342,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -7569,7 +7539,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 121.92 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -7607,10 +7577,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -8090,7 +8056,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 121.92 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8128,10 +8094,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -8725,7 +8687,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 120.65 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8763,10 +8725,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -9572,7 +9530,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 121.92 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -9610,10 +9568,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -9838,7 +9792,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 196.85 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9876,10 +9830,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")

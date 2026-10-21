@@ -1993,6 +1993,16 @@
 		)
 		(uuid "392ff61e-d944-440d-aa8f-846344db0890")
 	)
+	(text "May also be subbed for TSP610981 or -2 since\nI no longer use the V_{SUB} output"
+		(exclude_from_sim no)
+		(at 159.512 113.792 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "530a7e2c-f144-4dd7-a971-275b95d8d92a")
+	)
 	(text "POWER\n-------\nStop 2 = 3.0 uA (16 kB SRAM)\n-------\nPower up voltage range 4 (<= 25 MHz) = 2.5 mA\nRun for 1000 cycles @ 25 MHz = 40 us runtime per second\n2.5 mA * (40 us / 1 s) \n= 100 nA additional load\n-------\nLEDs = "
 		(exclude_from_sim no)
 		(at 94.996 42.418 0)
@@ -2901,17 +2911,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/efcde9fa-4498-4e2e-abb4-78f0f6ade801"
 					(reference "F1")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Footprint")
-							(value "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder")
-						)
-						(field
-							(name "P/N")
-							(value "MF-USMF005-2")
-						)
-					)
 				)
 			)
 		)
@@ -3024,7 +3023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 156.21 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -3079,13 +3078,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/efcde9fa-4498-4e2e-abb4-78f0f6ade801"
 					(reference "R17")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Footprint")
-							(value "Resistor_SMD:R_0603_1608Metric")
-						)
-					)
 				)
 			)
 		)
@@ -3183,13 +3175,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/efcde9fa-4498-4e2e-abb4-78f0f6ade801"
 					(reference "Q1")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Footprint")
-							(value "")
-						)
-					)
 				)
 			)
 		)
@@ -3474,7 +3459,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "33k"
 			(at 143.51 72.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3561,13 +3546,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/efcde9fa-4498-4e2e-abb4-78f0f6ade801"
 					(reference "R11")
 					(unit 1)
-					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "33k")
-						)
-					)
 				)
 			)
 		)
@@ -3864,21 +3842,6 @@
 				(path "/1704f67e-d01e-4841-9731-81fe72ec3016/efcde9fa-4498-4e2e-abb4-78f0f6ade801"
 					(reference "D100")
 					(unit 1)
-					(variant
-						(name "Simple")
-						(field
-							(name "Manufacturer")
-							(value "Shenzhen Slkormicro")
-						)
-						(field
-							(name "Value")
-							(value "3V3")
-						)
-						(field
-							(name "Vrwm")
-							(value "3V3")
-						)
-					)
 				)
 			)
 		)
@@ -4251,7 +4214,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "4u7"
 			(at 104.14 118.11 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4261,7 +4224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_1210_3225Metric"
 			(at 104.14 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4339,23 +4302,8 @@
 					(reference "L1")
 					(unit 1)
 					(variant
-						(name "Regulator")
-						(field
-							(name "Value")
-							(value "4u7")
-						)
-					)
-					(variant
 						(name "Simple")
 						(dnp yes)
-						(field
-							(name "Footprint")
-							(value "Inductor_SMD:L_1210_3225Metric")
-						)
-						(field
-							(name "Value")
-							(value "4u7")
-						)
 					)
 				)
 			)
@@ -4461,7 +4409,7 @@
 				)
 			)
 		)
-		(property "P/N" "CC0603JRNPO9BN8R0"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 147.32 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4500,10 +4448,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
@@ -4755,14 +4699,6 @@
 					(variant
 						(name "Simple")
 						(dnp yes)
-						(field
-							(name "Manufacturer")
-							(value "Texas Instruments")
-						)
-						(field
-							(name "P/N")
-							(value "TPS610986")
-						)
 					)
 				)
 			)
@@ -5256,7 +5192,7 @@
 				)
 			)
 		)
-		(property "P/N" "GRT155R71H104KE01"
+		(property "P/N" "GRT155R71H104KE01D "
 			(at 97.79 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -5294,10 +5230,6 @@
 						(field
 							(name "Dielectric")
 							(value "X7R")
-						)
-						(field
-							(name "P/N")
-							(value " GRT155R71H104KE01D ")
 						)
 						(field
 							(name "Vmax")
