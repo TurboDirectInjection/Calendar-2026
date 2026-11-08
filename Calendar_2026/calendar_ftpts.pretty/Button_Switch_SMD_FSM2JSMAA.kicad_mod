@@ -7,7 +7,7 @@
 		(at -3.30279 -3.402868 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "9951c665-24a8-4753-9630-9eaf327b5100")
+		(uuid "0322a944-3d2d-4165-aa0b-de57ad32d1e9")
 		(effects
 			(font
 				(size 1.169383 1.169383)
@@ -19,7 +19,7 @@
 	(property "Value" "Val**"
 		(at 0 0 0)
 		(layer "Rescue")
-		(uuid "19606bac-f952-466a-8f74-e70cdcdbd052")
+		(uuid "8186b66e-4472-4a4c-8882-a496018c1de5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d9ab9e67-0457-4447-bfff-8f39205236d6")
+		(uuid "1fde0279-5065-4b3c-a771-52cf62c58e79")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4bf91689-0e7b-4e81-92a4-91c9957f9cb2")
+		(uuid "22e9b020-5387-49d8-ab28-3c8d08462efd")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +61,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "e4ed28ad-4fb3-4857-a02a-728a91e2d723")
+		(uuid "f978d94f-b591-4fe9-908a-0117e4333136")
 	)
 	(fp_line
 		(start -3 -3)
@@ -71,7 +71,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7f0d4c7d-714a-4157-bb28-2404b0c841c2")
+		(uuid "93f4086a-df0d-4313-b735-20e6d7795c24")
 	)
 	(fp_line
 		(start -3 -3)
@@ -81,7 +81,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "9794c54a-e629-4d8d-8291-ccd5f25a39b7")
+		(uuid "1e046936-9880-4528-8f1f-01b3ec6c1a5b")
 	)
 	(fp_line
 		(start -3 3)
@@ -91,7 +91,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "4529f300-152c-4d91-98c9-22d4b15fff0a")
+		(uuid "15b55262-0d47-4d0e-959d-4f3d11396565")
 	)
 	(fp_line
 		(start 3 -3)
@@ -101,7 +101,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "91df254d-90d4-458a-a14f-b39905f131cb")
+		(uuid "29eba0b8-a400-46da-a225-44a11b3c2606")
 	)
 	(fp_circle
 		(center -4.5 -3.7)
@@ -112,7 +112,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "f0399def-9355-4075-a222-96e53132afee")
+		(uuid "0b1854f6-72fb-4726-9766-3bbcc5225915")
 	)
 	(pad "1" smd rect
 		(at -4.55 -2.25)
@@ -121,34 +121,34 @@
 		(solder_mask_margin 0.1016)
 		(solder_paste_margin 0)
 		(thermal_bridge_angle 0)
-		(uuid "18637d09-75b8-4c61-ace9-c5d26e72de40")
+		(uuid "d9c77444-3000-4543-80fe-624a94507af8")
 	)
-	(pad "2" smd rect
+	(pad "1" smd rect
 		(at 4.55 -2.25)
 		(size 2.1 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.1016)
 		(solder_paste_margin 0)
 		(thermal_bridge_angle 0)
-		(uuid "f2ccc453-b600-411a-b6b4-36b4a9b87621")
+		(uuid "0e258753-3c95-489d-8ca8-5576912c4de6")
 	)
-	(pad "3" smd rect
+	(pad "2" smd rect
 		(at -4.55 2.25)
 		(size 2.1 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.1016)
 		(solder_paste_margin 0)
 		(thermal_bridge_angle 0)
-		(uuid "96d5c487-9a34-42ae-b938-a55452510fcc")
+		(uuid "4bfa12d5-8394-47e0-ad48-77966ce0b805")
 	)
-	(pad "4" smd rect
+	(pad "2" smd rect
 		(at 4.55 2.25)
 		(size 2.1 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.1016)
 		(solder_paste_margin 0)
 		(thermal_bridge_angle 0)
-		(uuid "79f69b0c-30be-410a-b467-a460aadbd511")
+		(uuid "9d727392-a7d6-4d71-a9be-b7b4a2446d06")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3D/Button_FSM2JSMAA.STEP"

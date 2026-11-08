@@ -3272,6 +3272,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TODO: re-position button pins so you could \ndrop a STM32U5x..xQ with the SMPS in place of this."
+		(exclude_from_sim no)
+		(at 101.092 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "77318de3-e545-4b47-9756-eedd8dba6b64")
+	)
 	(text "CRYSTAL CAPS\nC_{stray} = 5 pF (approx)\nC_{L} = 9 pF\nC_{1} = C_{2} \n   = 2(C_{L} - C_{stray})\n   = 8 pF"
 		(exclude_from_sim no)
 		(at 76.2 83.82 0)
@@ -5448,7 +5458,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf"
+		(property "Datasheet" "kicad-embed://Button_ENG_CD_2-1437565-7_Z1.pdf"
 			(at 113.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -6720,7 +6730,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf"
+		(property "Datasheet" "kicad-embed://Button_ENG_CD_2-1437565-7_Z1.pdf"
 			(at 113.03 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -7887,7 +7897,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf"
+		(property "Datasheet" "kicad-embed://Button_ENG_CD_2-1437565-7_Z1.pdf"
 			(at 113.03 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -9283,7 +9293,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://Button_ENG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308.pdf"
+		(property "Datasheet" "kicad-embed://Button_ENG_CD_2-1437565-7_Z1.pdf"
 			(at 113.03 135.89 0)
 			(hide yes)
 			(show_name no)
