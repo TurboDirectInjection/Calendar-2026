@@ -3223,7 +3223,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://10uF_SEMS-S-A0008526575-1.pdf"
+		(property "Datasheet" ""
 			(at 121.92 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3245,7 +3245,7 @@
 				)
 			)
 		)
-		(property "P/N" "CL32B106KLJNNNE"
+		(property "P/N" "1210B106K500CT"
 			(at 121.92 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3278,7 +3278,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung"
+		(property "Manufacturer" "Walsin"
 			(at 121.92 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4010,7 +4010,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://10uF_SEMS-S-A0008526575-1.pdf"
+		(property "Datasheet" ""
 			(at 140.97 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4032,7 +4032,7 @@
 				)
 			)
 		)
-		(property "P/N" "CL32B106KLJNNNE"
+		(property "P/N" "1210B106K500CT"
 			(at 140.97 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4065,7 +4065,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung"
+		(property "Manufacturer" "Walsin"
 			(at 140.97 124.46 0)
 			(hide yes)
 			(show_name no)

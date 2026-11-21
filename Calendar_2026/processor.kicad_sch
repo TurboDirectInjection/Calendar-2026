@@ -6211,6 +6211,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Onsemi"
+			(at 198.12 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "MMDL301T1G  "
+			(at 198.12 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f9532e5d-b07f-4a96-bb8c-62b2381539f2")
 		)
@@ -7676,7 +7698,7 @@
 				)
 			)
 		)
-		(property "P/N" "STM32U535CEU6Q"
+		(property "P/N" "STM32U535CEU6"
 			(at 148.59 96.52 0)
 			(hide yes)
 			(show_name no)
